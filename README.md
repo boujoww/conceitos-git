@@ -4,4 +4,4 @@
 - Inicializar repositório GIT 
 ```bash
 git init 
-```    .
+```    
