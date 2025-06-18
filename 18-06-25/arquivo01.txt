@@ -1,0 +1,1 @@
+.txtgit config user.name "boujoww"git config user.name "boujoww"
